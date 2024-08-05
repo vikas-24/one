@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" xml:lang="en">
+<html lang="en">
 <html>
 <head>
 <title>Devops is easy to learn untill you start learning</title>
